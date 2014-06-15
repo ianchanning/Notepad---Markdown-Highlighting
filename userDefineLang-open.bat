@@ -1,1 +1,1 @@
-start "" "%APPDATA%\Notepad++%\userDefineLang.xml"
+start "" "%APPDATA%\Notepad++\userDefineLang.xml"
