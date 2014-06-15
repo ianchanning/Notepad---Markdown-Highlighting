@@ -1,5 +1,7 @@
 # Notepad++ Markdown Highlighting
 
+(Please note, the following and the CSS file were from the original project, and I have not yet modified them to reflect the stylistic changes I made. Feel free to look at the repo history for the earlier styling or use mine.)
+
 ## Colors
 
 This style uses Bespin (light on dark) colors. You'll probably have to do some color editing to make it fit your chosen theme -- unfortunately user defined language styles can't inherit colors from their parent theme.
@@ -17,7 +19,7 @@ Because of limits of the generic Notepad++ user defined language lexer, highligh
   
 ## How to use
 
-  1. Open `\[user]\AppData\Roaming\Notepad++`
+  1. Open `%APPDATA%\Notepad++` (i. e., `\[user]\AppData\Roaming\Notepad++`)
   2. Replace your `userDefineLang.xml` with the one in this repo, or add the contents of this `userDefineLang.xml` to the end of your current one.
   3. Restart Notepad++.
   4. Markdown highlighting will now automatically apply to `.mkdn`, `.mkd`, and `.md` files, or you can manually select it from the bottom of the "Language" menu.
