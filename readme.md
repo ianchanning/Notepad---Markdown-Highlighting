@@ -1,5 +1,7 @@
 # Notepad++ Markdown Highlighting
 
+(Please note, the following and the CSS file were from the original project, and I have not yet modified them to reflect the stylistic changes I made. Feel free to look at the repo history for the earlier styling or use mine.)
+
 ## Colors
 
 This style uses Bespin (light on dark) colors. You'll probably have to do some color editing to make it fit your chosen theme -- unfortunately user defined language styles can't inherit colors from their parent theme.
