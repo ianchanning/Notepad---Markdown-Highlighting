@@ -1,6 +1,6 @@
 # Notepad++ Markdown Highlighting
 
-(Please note, the following and the CSS file were from the original project, and I have not yet modified them to reflect the stylistic changes I made. Feel free to look at the repo history for the earlier styling or use mine.)
+(Please note, the following and the CSS file were from the original project, and I have not yet modified them to reflect the stylistic changes I made. Feel free to look at the [branch indicating the original](../../tree/original) for the earlier styling or use mine.)
 
 ## Colors
 
