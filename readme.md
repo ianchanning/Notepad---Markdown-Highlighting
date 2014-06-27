@@ -2,7 +2,7 @@
 
 ## Colors
 
-This style uses Twilight (light on dark) colors. You'll probably have to do some color editing to make it fit your chosen theme -- unfortunately user defined language styles can't inherit colors from their parent theme.
+This style uses the Default colors. You'll probably have to do some color editing to make it fit your chosen theme -- unfortunately user defined language styles can't inherit colors from their parent theme.
 
 ## Style Guide
 
