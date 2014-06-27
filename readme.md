@@ -9,11 +9,12 @@ This style uses Twilight (light on dark) colors. You'll probably have to do some
 Because of limits of the generic Notepad++ user defined language lexer, highlighting is partial and a little buggy. But you can still get a lot out of it if you follow some simple style rules:
 
   + Use the `#` syntax for headers, not underlines. You can use underlines but they won't style the headings.
-  + Remember `*`, `_`, and `>` only highlight the first word they've marked down.
+  + Remember `_`, and `>` only highlight the first word they've marked down.
   + Use `+` / `-` for lists, or change it in the dialog to dashes. Asterisks will conflict with emphasis highlighting.
   + Horizontal rules should be 3 or more dashes.
   + Nothing works if you start or end it inside a word.
   + Remember there's no highlighting for indentation/\<pre\> tags.
+  + See `tests.md` for a more information
   
 ## How to use
 
