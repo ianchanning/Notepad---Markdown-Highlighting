@@ -6,6 +6,8 @@
 
 This style uses Bespin (light on dark) colors. You'll probably have to do some color editing to make it fit your chosen theme -- unfortunately user defined language styles can't inherit colors from their parent theme.
 
+There is a central [Styles wiki page](https://github.com/brettz9/Notepad---Markdown-Highlighting/wiki/Styles) for all the alternate themes that have been created.
+
 ## Style Guide
 
 Because of limits of the generic Notepad++ user defined language lexer, highlighting is partial and a little buggy. But you can still get a lot out of it if you follow some simple style rules:
