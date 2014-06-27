@@ -1,8 +1,8 @@
 <NotepadPlus>
-    <UserLang name="Markdown" ext="mkdn mkd md" udlVersion="2.1">
+    <UserLang name="Markdown" ext="markdown mkdn mkd md" udlVersion="2.1">
         <Settings>
             <Global caseIgnored="yes" allowFoldOfComments="no" foldCompact="no" forcePureLC="0" decimalSeparator="0" />
-            <Prefix Keywords1="yes" Keywords2="yes" Keywords3="yes" Keywords4="no" Keywords5="no" Keywords6="no" Keywords7="no" Keywords8="no" />
+            <Prefix Keywords1="yes" Keywords2="yes" Keywords3="yes" Keywords4="yes" Keywords5="no" Keywords6="no" Keywords7="no" Keywords8="no" />
         </Settings>
         <KeywordLists>
             <Keywords name="Comments">00# 00## 00### 00#### 00##### 01 02 03&lt;!-- 04--&gt;</Keywords>
@@ -14,7 +14,7 @@
             <Keywords name="Numbers, suffix2"></Keywords>
             <Keywords name="Numbers, range"></Keywords>
             <Keywords name="Operators1">+</Keywords>
-            <Keywords name="Operators2"></Keywords>
+            <Keywords name="Operators2">-</Keywords>
             <Keywords name="Folders in code1, open"></Keywords>
             <Keywords name="Folders in code1, middle"></Keywords>
             <Keywords name="Folders in code1, close"></Keywords>
@@ -27,7 +27,7 @@
             <Keywords name="Keywords1">http:// (http:// https:// (https:// ftp:// (ftp:// git:// (git:// (/ ![ &lt;http</Keywords>
             <Keywords name="Keywords2">** __ * _</Keywords>
             <Keywords name="Keywords3">&gt;</Keywords>
-            <Keywords name="Keywords4">--- ---- ----- ------ ------- -------- --------- ---------- ----------- ------------ ------------- -------------</Keywords>
+            <Keywords name="Keywords4">--- ===</Keywords>
             <Keywords name="Keywords5">1. 2. 3. 4. 5. 6. 7. 8. 9. 0.</Keywords>
             <Keywords name="Keywords6"></Keywords>
             <Keywords name="Keywords7"></Keywords>
